@@ -354,6 +354,26 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="../assets/img/portfolio/portfolio-21.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="../assets/img/portfolio/portfolio-21.jpeg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="../assets/img/portfolio/portfolio-22.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="../assets/img/portfolio/portfolio-22.jpeg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </div>
