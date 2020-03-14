@@ -86,11 +86,12 @@
         <div class="row no-gutters">
           <div class="content col-xl-5 d-flex align-items-stretch" data-aos="fade-up">
             <div class="content">
-              <h3>Voluptatem dignissimos provident quasi</h3>
+              <h3 class="text-center">Chia sẻ - Gắn kết<br>Hành trình - Kỉ Niệm</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Nhằm chia sẻ những kiến thức, kinh nghiệm như lập trình, âm nhạc, kinh doanh, ngôn ngữ, sự kiện,.. , tạo các nhóm học tập, trao đổi các lĩnh vực để phát triển bản thân cũng như cộng đồng và xã hội.
+                Tạo ra những hoạt động những hành trình đồng hành và sau cùng là lưu giữ lại những kỉ niệm cùng nhau...
               </p>
-              <a href="#" class="about-btn">About us <i class="bx bx-chevron-right"></i></a>
+              <a href="#" class="about-btn">Tham gia hay có thắc mắc ?<i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
           <div class="col-xl-7 d-flex align-items-stretch">
@@ -98,23 +99,24 @@
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-receipt"></i>
-                  <h4>Corporis voluptates sit</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bx bx-cube-alt"></i>
-                  <h4>Ullamco laboris nisi</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                  <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <h4>Chia sẻ</h4>
+                  <p>Chia sẻ kiến thức lập trình, tổ chức sự kiện, sách hay nên đọc, âm nhạc, chụp ảnh, ngôn ngữ,.. </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
                   <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <h4>Gắn kết</h4>
+                  <p>Tạo ra các câu lạc bộ học thuật, trao đổi kiến thức, làm bài tập, thực hành, giao lưu thực tế,.. </p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                  <i class="bx bx-cube-alt"></i>
+                  <h4>Hành trình</h4>
+                  <p>Bên cạnh đó hay cũng nhau tổ chức những chuyến thiện nguyện, những hoạt động có ý cho xã hội hay những chuyến đi xa.. </p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+                  <i class="bx bx-images"></i>
+                  <h4>Kỉ niệm</h4>
+                  <p>Đây cũng có thể là nơi đăng những hoạt động, hình ảnh câu lạc bộ, những hành trình cùng nhau.. 
+                  </p>
                 </div>
               </div>
             </div><!-- End .content-->
@@ -129,40 +131,43 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Dịch vụ</h2>
+          <p>
+            Chức năng này đang xây dựng vì chúng tuii cũng không biết sẽ có dịch vụ gì, nhưng trong tương lai, chúng tuii hi vọng sẽ xây dựng những dịch vụ tự động và đem lại hiệu quả cho mọi người, bên cạnh đó cũng sẽ có phát triển áo nhóm, logo dành cho nhóm.
+          </p>
         </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4 class="title"><a href="">Đội nhóm</a></h4>
+              <p class="description">Đội nhóm - nơi mà người chia sẻ cũng như người được chia sẻ phát triển rất nhiều. 
+              Bạn sẽ thực sự giỏi khi bạn tự tin chia sẻ kiến thức của bạn cho người đi sau.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4 class="title"><a href="">Đọc sách</a></h4>
+              <p class="description">Đọc sách là cách tiếp thu kiến thức, là học được những điều mà tự bản thân dạy bản thân.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4 class="title"><a href="">Phát triển bản thân</a></h4>
+              <p class="description">Nếu bạn có một niềm đam mê phát triển bản thân thì thật tuyệt. Hãy vì bản thân và liên tục học hỏi bản thân nhé, sau đó vì gia đình và tất cả mọi người nữa.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4 class="title"><a href="">Thế giới</a></h4>
+              <p class="description">Nhớ là hãy luôn yêu thương mọi người, làm những điều ý nghĩa, hoà nhập với tổ quốc và thế giới.</p>
             </div>
           </div>
 
@@ -181,7 +186,7 @@
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
               <span data-toggle="counter-up">232</span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
+              <p><strong>Số người hài lòng</strong> với hoạt động của nhóm</p>
             </div>
           </div>
 
@@ -189,23 +194,23 @@
             <div class="count-box">
               <i class="icofont-document-folder"></i>
               <span data-toggle="counter-up">521</span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
+              <p><strong>Dự án</strong> đang phát triển</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">1,463</span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+              <span data-toggle="counter-up">2897</span>
+              <p><strong>Thành viên hỗ trợ</strong> cho tới tời điểm hiện tại</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="icofont-users-alt-5"></i>
-              <span data-toggle="counter-up">15</span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+              <span data-toggle="counter-up">14</span>
+              <p><strong>Thành viên chủ chốt</strong> luôn đồng hành cùng mọi hoạt động.</p>
             </div>
           </div>
 
@@ -219,9 +224,9 @@
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
+          <h3>Thảo luận ngay</h3>
+          <p> Trao đổi những ý tưởng những hoạt động, những dự án, những chuyến đi ngày nào!</p>
+          <a class="cta-btn" href="#">Trao đổi nhgay</a>
         </div>
 
       </div>
@@ -232,8 +237,8 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Danh mục</h2>
+          <p>Danh mục gì đó của hai đứa tui nè!</p>
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -251,9 +256,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-11.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-11.jpeg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -261,9 +266,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-12.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-12.jpeg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -271,9 +276,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-13.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-13.jpeg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -281,9 +286,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-14.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-14.jpeg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -291,9 +296,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-15.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-15.jpeg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -301,9 +306,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-16.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-16.jpeg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -311,9 +316,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-17.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-17.jpeg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -321,9 +326,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-18.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-18.jpeg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -331,9 +336,19 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="../assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-19.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="../assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-19.jpeg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="../assets/img/portfolio/portfolio-20.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="../assets/img/portfolio/portfolio-20.jpeg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="#" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
