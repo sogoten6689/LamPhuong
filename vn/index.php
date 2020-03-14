@@ -58,8 +58,8 @@
           <li><a href="#contact">Liên hệ</a></li>
           <li class="drop-down"><a href="">Ngôn ngữ</a>
             <ul>
-              <li class="active"><a href="#">Tiếng Việt</a></li>
-              <li><a href="/lamphuong" >English</a></li>
+              <li class="active"><a href="../vn/">Tiếng Việt</a></li>
+              <li><a href="../" >English</a></li>
             </ul>
           </li>
         </ul>
